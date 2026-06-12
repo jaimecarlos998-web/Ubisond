@@ -1,5 +1,5 @@
 <plugins>
-<pyqgis_plugin name="ubisond" version="1">
+<pyqgis_plugin name="ubisond" version="2">
 <description>Registra puntos en el mapa y los guarda en nuestra base de datos</description>
 <version>2</version>
 <qgis_minimum_version>3.0</qgis_minimum_version>
