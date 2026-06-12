@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="Ubisond" version="1">
+    <description>Registra puntos en el mapa y los guarda en nuestra base de datos</description>
+    <version>1</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <homepage>https://github.com/jaimecarlos998-web/ubisond</homepage>
+    <file_name>ubisond.zip</file_name>
+    <author_name>Carlos Ezequiel Jaime</author_name>
+    <download_url>https://github.com/jaimecarlos998-web/ubisond/releases/latest/download/ubisond.zip</download_url>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tracker>https://github.com/jaimecarlos998-web/ubisond/issues</tracker>
+    <repository>https://github.com/jaimecarlos998-web/ubisond</repository>
+    <tags>supabase, fieldwork, registro</tags>
+    <about>Click en el mapa, completá el formulario, los datos van directo a nuestra base de datos Mobisoneana</about>
+  </pyqgis_plugin>
+</plugins>
